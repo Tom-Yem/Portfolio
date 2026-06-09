@@ -17,7 +17,7 @@
 
 # Software Development
 
-## Recipe Search Mobile App
+### Recipe Search Mobile App
 Flutter application that allows users to search recipes through a public API and view detailed recipe information.
 
 Technologies:
