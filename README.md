@@ -21,7 +21,9 @@
 Flutter application that allows users to search recipes through a public API and view detailed recipe information.
 
 Technologies:
+
 Flutter, Dart, REST APIs
 
 Repository:
+
 [Delishoz](https://github.com/Tom-Yem/Delishoz)
