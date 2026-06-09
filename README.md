@@ -27,4 +27,4 @@ Repository:
 [Delishoz](https://github.com/Tom-Yem/Delishoz)
 
 Screenshot:
-[Page-1](https://github.com/Tom-Yem/Delishoz/blob/main/Github_Assets/page1.jpg)
+![Page-1](https://github.com/Tom-Yem/Delishoz/blob/main/Github_Assets/page1.jpg)
