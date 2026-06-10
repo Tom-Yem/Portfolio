@@ -9,6 +9,7 @@
 ### Systems Programming
 - [Unix Filesystem Simulator](#unix-filesystem-simulator)
 - [Web Proxy Server](#web-proxy-server)
+- [CPU Scheduler](#cpu-scheduler)
 
 ### Embedded Systems
 - [FPGA Stopwatch](#fpga-stopwatch)
@@ -60,3 +61,14 @@ C, WSL, GitHub
 
 Repository:
 [Web Proxy](https://github.com/Tomas853/Web-Proxy)
+
+### CPU Scheduler
+
+A CPU scheduling simulator in C that models process execution and evaluates the performance of scheduling algorithms of the following common schedulers: First-Come First-Serve (FCFS), Round Robin (RR), and Shortest Job First (SJF).
+
+Technologies: 
+C, WSL, GitHub
+
+Repository:
+[CPU Scheduler](https://github.com/Tomas853/CPU-Scheduler)
+
