@@ -4,7 +4,7 @@
 
 ### Software Development
 - [Recipe Search Mobile App](#recipe-search-mobile-app)
-- [Movie Rental Application](#movie-rental-application)
+- [Movie Dashboard Website](#movie-dashboard-website)
 
 ### Systems Programming
 - [Unix Filesystem Simulator](#unix-filesystem-simulator)
@@ -26,6 +26,18 @@ Repository:
 [Delishoz](https://github.com/Tom-Yem/Delishoz)
 
 ![Page-1](https://github.com/Tom-Yem/Delishoz/blob/main/Github_Assets/page1.jpg)
+
+### Movie Dashboard Website
+A modern responsive movie dashboard website made entirely with bare HTML and CSS for use in learning how to effectively change any UI web design into a functional website    
+
+Technologies: 
+HTML, CSS, GitHub
+
+Website link:
+[Movie Dashboard](https://tom-yem.github.io/Movies_Dashboard)
+
+Repository:
+[Movie Dashboard](https://github.com/Tom-Yem/Movies_Dashboard)
 
 ### Unix Filesystem Simulator
 A Unix-like file system simulator with a few commands
