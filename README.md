@@ -38,6 +38,7 @@ Website link:
 
 Repository:
 [Movie Dashboard](https://github.com/Tom-Yem/Movies_Dashboard)
+![movie](https://tom-yem.github.io/Movies_Dashboard/images/screen1.png)
 
 ### Unix Filesystem Simulator
 A Unix-like file system simulator with a few commands
