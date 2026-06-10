@@ -32,9 +32,18 @@ Repository:
 A unix-like file system simulator with a few commands
 
 Technologies: 
-C, WSL
+C, WSL, Github
 
 Repository: 
 [Unix Filesystem](https://github.com/Tomas853/Unix-Filesystem-Tree-Simulator)
 
 ![commands](./unix_tree_simulator.png)
+
+### Web Proxy Server
+
+A web server that sits in between and relays HTTP requests between a server and a client. 
+
+Technologies: 
+C, WSL, Github
+Repository:
+[Web Proxy](https://github.com/Tomas853/Web-Proxy)
