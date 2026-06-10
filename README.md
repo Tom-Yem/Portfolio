@@ -35,4 +35,4 @@ Technologies: C, WSL
 Repository: 
 [Unix Filesystem](https://github.com/Tomas853/Unix-Filesystem-Tree-Simulator)
 
-![commands](./Assets/unix_tree_simulator.png)
+![commands](./unix_tree_simulator.png)
