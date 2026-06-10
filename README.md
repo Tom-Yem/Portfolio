@@ -4,7 +4,6 @@
 
 ### Software Development
 - [Recipe Search Mobile App](#recipe-search-mobile-app)
-- [Unix Filesystem Simulation](#unix-filesystem-simulation)
 - [Movie Rental Application](#movie-rental-application)
 
 ### Systems Programming
@@ -28,11 +27,11 @@ Repository:
 
 ![Page-1](https://github.com/Tom-Yem/Delishoz/blob/main/Github_Assets/page1.jpg)
 
-### Unix Filesystem Simulation
-A unix-like file system simulator with a few commands
+### Unix Filesystem Simulator
+A Unix-like file system simulator with a few commands
 
 Technologies: 
-C, WSL, Github
+C, WSL, GitHub
 
 Repository: 
 [Unix Filesystem](https://github.com/Tomas853/Unix-Filesystem-Tree-Simulator)
