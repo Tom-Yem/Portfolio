@@ -44,6 +44,7 @@ Repository:
 A web server that sits in between and relays HTTP requests between a server and a client. 
 
 Technologies: 
-C, WSL, Github
+C, WSL, GitHub
+
 Repository:
 [Web Proxy](https://github.com/Tomas853/Web-Proxy)
