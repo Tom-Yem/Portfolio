@@ -31,7 +31,9 @@ Repository:
 ### Unix Filesystem Simulation
 A unix-like file system simulator with a few commands
 
-Technologies: C, WSL
+Technologies: 
+C, WSL
+
 Repository: 
 [Unix Filesystem](https://github.com/Tomas853/Unix-Filesystem-Tree-Simulator)
 
