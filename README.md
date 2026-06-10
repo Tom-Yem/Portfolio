@@ -4,7 +4,7 @@
 
 ### Software Development
 - [Recipe Search Mobile App](#recipe-search-mobile-app)
-- [Hotel Reservation System](#hotel-reservation-system)
+- [Unix Filesystem Simulation](#unix-filesystem-simulation)
 - [Movie Rental Application](#movie-rental-application)
 
 ### Systems Programming
@@ -27,3 +27,12 @@ Repository:
 [Delishoz](https://github.com/Tom-Yem/Delishoz)
 
 ![Page-1](https://github.com/Tom-Yem/Delishoz/blob/main/Github_Assets/page1.jpg)
+
+### Unix Filesystem Simulation
+A unix-like file system simulator with a few commands
+
+Technologies: C, WSL
+Repository: 
+[Unix Filesystem](https://github.com/Tomas853/Unix-Filesystem-Tree-Simulator)
+
+![commands](./Assets/unix_tree_simulator.png)
