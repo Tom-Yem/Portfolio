@@ -6,13 +6,13 @@
 - [Recipe Search Mobile App](#recipe-search-mobile-app)
 - [Movie Dashboard Website](#movie-dashboard-website)
 
-### Systems Programming
+### Systems Software Development
 - [Unix Filesystem Simulator](#unix-filesystem-simulator)
 - [Web Proxy Server](#web-proxy-server)
 - [CPU Scheduler](#cpu-scheduler)
 
 ### Embedded Systems
-- [FPGA Stopwatch](#fpga-stopwatch)
+- [VGA Controller](https://github.com/Tom-Yem/FPGA_Projects)
 ---
 
 # Software Development
